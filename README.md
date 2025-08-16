@@ -40,7 +40,7 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbtissamErrachidi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbtissamErrachidi&layout=compact&theme=default)
 
 
 
