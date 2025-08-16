@@ -10,12 +10,12 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 🚀 Excited to connect and collaborate!  
 
 
-#### 🌐 Connect with me  
+### 🌐 Connect with me  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/ibtissam-er-rachidi-44a257255)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtissamerrachidi810@gmail.com)  
 
 
-#### ⚙️ Technologies and Tools  
+### ⚙️ Technologies and Tools  
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
