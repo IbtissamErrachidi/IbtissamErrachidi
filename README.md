@@ -7,14 +7,12 @@
 Currently pursuing a Master's degree, I combine full-stack development expertise with a strong foundation in **Data Science and IoT**. I enjoy building intelligent systems that not only process information efficiently but also deliver value to people and businesses.
 🚀 Excited to connect and collaborate!  
 
----
 
 #### 🌐 Connect with me  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/ibtissam-er-rachidi-44a257255)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtissamerrachidi810@gmail.com)  
 
----
 
 #### ⚙️ Technologies and Tools  
 
