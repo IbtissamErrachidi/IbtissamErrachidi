@@ -39,6 +39,8 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 
 
 
-![IbtissamErrachidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbtissamErrachidi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbtissamErrachidi&layout=compact&theme=radical)
+
 
 
