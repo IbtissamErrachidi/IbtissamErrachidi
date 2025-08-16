@@ -1,6 +1,8 @@
 # ER RACHIDI IBTISSAM 
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=IbtissamErrachidi&label=Profile%20views&color=0e75b6&style=flat)
+
 
 #### 🧑‍💻 Big Data and IoT | Data Science | Machine Learning  
 
