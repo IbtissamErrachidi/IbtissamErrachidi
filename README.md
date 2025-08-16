@@ -35,6 +35,10 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 </p>
 
 
-### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=IbtissamErrachidi&theme=orange&hide_border=true)](https://git.io/streak-stats)
+
+
+
+![IbtissamErrachidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbtissamErrachidi&show_icons=true&theme=radical)
+
 
