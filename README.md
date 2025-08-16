@@ -11,7 +11,7 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 
 ### 🌐 Connect with me  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link](https://ma.linkedin.com/in/ibtissam-er-rachidi-44a257255))  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/ibtissam-er-rachidi-44a257255)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibtissamerrachidi810@gmail.com)  
 
 ---
