@@ -34,3 +34,7 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=IbtissamErrachidi&theme=orange&hide_border=true)](https://git.io/streak-stats)
+
