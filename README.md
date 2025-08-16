@@ -35,12 +35,13 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbtissamErrachidi&layout=compact&theme=default)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=IbtissamErrachidi&theme=orange&hide_border=true)](https://git.io/streak-stats)
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbtissamErrachidi&layout=compact&theme=default)
 
 
 
