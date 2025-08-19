@@ -2,6 +2,7 @@
 
 ---
 
+![Ibtissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbtissamErrachidi&show_icons=true&theme=radical)
 
 
 #### 🧑‍💻 Big Data and IoT | Data Science | Machine Learning  
