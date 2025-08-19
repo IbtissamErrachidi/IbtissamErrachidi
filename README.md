@@ -2,7 +2,7 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IbtissamErrachidi.IbtissamErrachidi)
+
 
 #### 🧑‍💻 Big Data and IoT | Data Science | Machine Learning  
 
