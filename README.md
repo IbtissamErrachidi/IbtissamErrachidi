@@ -42,6 +42,13 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 [![GitHub Streak](https://streak-stats.demolab.com?user=IbtissamErrachidi&theme=orange&hide_border=true)](https://git.io/streak-stats)
 
 
+![Big Data](https://img.shields.io/badge/Big_Data-0078D7?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white)
+
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+
+
 > “Learning never exhausts the mind. — Leonardo da Vinci”
 
 
