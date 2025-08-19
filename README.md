@@ -42,6 +42,7 @@ Currently pursuing a Master's degree, I combine full-stack development expertise
 [![GitHub Streak](https://streak-stats.demolab.com?user=IbtissamErrachidi&theme=orange&hide_border=true)](https://git.io/streak-stats)
 
 
+> “Learning never exhausts the mind. — Leonardo da Vinci”
 
 
 
